@@ -1,0 +1,1 @@
+This code installs the interpret package and imports necessary libraries. It defines variables, sets up data generators, builds a model using ResNet50, trains the model, and uses LIME for model interpretation.
